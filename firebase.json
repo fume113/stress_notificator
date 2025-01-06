@@ -1,0 +1,21 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "stress-notificator",
+          "appId": "1:984616485229:android:4daf0427065d1a4d515a64",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "stress-notificator",
+          "configurations": {
+            "android": "1:984616485229:android:4daf0427065d1a4d515a64"
+          }
+        }
+      }
+    }
+  }
+}

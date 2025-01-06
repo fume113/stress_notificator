@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "984616485229",
+    "firebase_url": "https://stress-notificator-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "stress-notificator",
+    "storage_bucket": "stress-notificator.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984616485229:android:4daf0427065d1a4d515a64",
+        "android_client_info": {
+          "package_name": "com.example.stress_notificator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWABw9O0A696EhLuJCtVtx26o0N603Vj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
